@@ -1,4 +1,3 @@
-![3](https://github.com/user-attachments/assets/438e6194-64f3-4b2f-b09e-5f07c34ee5d0)
 # 💥FPS Shooting Game in a Fantasy Village💥
 Unreal Engine Game Project
 <br>
