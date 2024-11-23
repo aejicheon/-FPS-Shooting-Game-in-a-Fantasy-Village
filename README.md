@@ -7,7 +7,7 @@ Unreal Engine Game Project
 <ul>
   <li>게임 장르 : 3D, FPS Game</li>
   <li>게임 목표 : 마을에 존재하는 몬스터 들을 피해 마을을 빠져나와 탈출해라!</li>
-  <li>기술 스택 : Unity Engine, C#</li>
+  <li>기술 스택 : Unreal Engine, C++</li>
 </ul>
 <br>
 
